@@ -1,2 +1,0 @@
-# Kollev
-SoftUni
